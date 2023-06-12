@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,LCSC
+22uf,"C5,C6",C_1206_3216Metric,C12891
+10uf,"C1,C2,C7,C8",C_0805_2012Metric,C15850
+36K,R2,R_0603_1608Metric,C23147
+10K,"R1,R3",R_0603_1608Metric,C25804
+3.3uh,L1,L_5.5x5.5,C436534
+0.1uf,"C3,C4",C_0805_2012Metric,C49678
+TPS563200,U1,SOT-23-6,C97253
+486,Top1,486_168pga_socket,
+486Pins,Pins1,486_168pga_pins,
+CLKMUL,CLKMUL1,PinHeader_1x03_P2.54mm_Vertical,
+Conn_01x03,ExtPwr1,PinHeader_1x03_P2.54mm_Vertical,
