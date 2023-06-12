@@ -1,3 +1,7 @@
+# 486SocketBlaster Set: 3.5v
+
+<img align="center" alt="PCB image" width="450px" src="https://raw.githubusercontent.com/LimeProgramming/486SocketBlaster/main/gerbers/SetVoltage/3.5v/SetVoltage3.5v.JPG"/>
+
 ### BOM
 | Value | Designator | Footprint | LCSC |
 |--|--|--|--|
