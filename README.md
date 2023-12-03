@@ -1,3 +1,5 @@
+# Ignore this for the moment please need to fix it when I have the drive to. Sorry but thanks for looking. 
+
 # 486SocketBlaster
 
 486SocketBlaster is a simple voltage adapter for 486 processors. It allows you
